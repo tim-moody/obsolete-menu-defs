@@ -1,0 +1,10 @@
+{
+  "lang": "es", 
+  "intended_use": "webroot", 
+  "title": "Sugarizer", 
+  "description": "Una muestra de la interfaz Sugar en cualquier dispositivo, utilizado diariamente por niños de todo el mundo en el proyecto One Laptop per Child.", 
+  "start_url": "sugarizer", 
+  "menu_item_name": "es-sugarizer", 
+  "logo_url": "sugarizer.png", 
+  "moddir": ""
+}
